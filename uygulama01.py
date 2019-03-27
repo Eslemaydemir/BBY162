@@ -1,4 +1,4 @@
-sorular= ['Çakmak kibritten üretilmiştir. [D/Y]', 'Ahtapotların 3 tane kalbi vardır. [D/Y]', 'Altın en iyi iletkendir. [D/Y]',
+sorular= ['Çakmak kibritten önce üretilmiştir. [D/Y]', 'Ahtapotların 3 tane kalbi vardır. [D/Y]', 'Altın en iyi iletkendir. [D/Y]',
           'Dünyadaki en kısa savaş 2 saat sürmüştür. [D/Y]', 'Chicago, Barcelona, Roma ve İstanbul, aynı enlem üzerindedir. [D/Y]']
 cevaplar= ['D','D','Y','Y', 'D']
 puan = 0
